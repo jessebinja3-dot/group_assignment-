@@ -1,3 +1,6 @@
+// Question 1: Hello World
+// This program displays a welcome message to the screen.
+
 #include <iostream>
 using namespace std;
 
