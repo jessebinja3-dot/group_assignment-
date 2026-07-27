@@ -5,6 +5,10 @@ class Student {
     public: 
     string name;
     int age;
+  void displayInfo() {
+        cout << "Student Name: " << name << endl;
+        cout << "Student Age : " << age << endl;
+    }
 };
 
 int main(){
