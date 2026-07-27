@@ -17,7 +17,7 @@ int main(){
     s1.name = " Maria ";
     s1.age = 27;
     
-    cout << s1.name << " " << s1.age << endl;
+     s1.displayInfo();
 
     return 0;
 }
